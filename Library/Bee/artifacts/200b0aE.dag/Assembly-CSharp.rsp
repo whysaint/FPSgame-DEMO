@@ -404,6 +404,8 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.51f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/scripts/FPSInput.cs"
 "Assets/scripts/MouseLook.cs"
+"Assets/scripts/RayShooter.cs"
+"Assets/scripts/ReactiveTarget.cs"
 -langversion:9.0
 /deterministic
 /optimize+
