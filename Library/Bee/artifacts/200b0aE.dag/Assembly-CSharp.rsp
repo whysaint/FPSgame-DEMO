@@ -406,6 +406,7 @@
 "Assets/scripts/MouseLook.cs"
 "Assets/scripts/RayShooter.cs"
 "Assets/scripts/ReactiveTarget.cs"
+"Assets/scripts/WanderingAI.cs"
 -langversion:9.0
 /deterministic
 /optimize+
