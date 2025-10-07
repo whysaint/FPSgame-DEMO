@@ -402,10 +402,13 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.51f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.51f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.51f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/scripts/FireBall.cs"
 "Assets/scripts/FPSInput.cs"
 "Assets/scripts/MouseLook.cs"
+"Assets/scripts/PlayerCharacter.cs"
 "Assets/scripts/RayShooter.cs"
 "Assets/scripts/ReactiveTarget.cs"
+"Assets/scripts/SceneController.cs"
 "Assets/scripts/WanderingAI.cs"
 -langversion:9.0
 /deterministic
